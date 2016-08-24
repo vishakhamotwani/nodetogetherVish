@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vishmo/nodetogetherVish/issues"
   },
-  "homepage": "https://github.com/vishmo/nodetogetherVish#readme"
+  "homepage": "https://github.com/vishmo/nodetogetherVish#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
